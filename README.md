@@ -1,3 +1,17 @@
-# Mr. Milchick
+# Mr. Milchick - Manhattan Real Estate Assistant
 
-A web application with a frontend built using Vite and React, and a backend powered by Python and FastAPI.
+An AI-powered Manhattan real estate assistant that helps users find and analyze properties.
+
+## Features
+
+- AI conversation interface
+- Real-time property listings
+- Building information and reviews
+- User dashboard for saved properties
+
+## Tech Stack
+
+- React frontend
+- Python/FastAPI backend
+- OpenAI integration
+- # PostgreSQL database
